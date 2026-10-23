@@ -13,7 +13,7 @@ const translations = {
   "Back Muscles": "عضلات الظهر",
   "Shoulders": "الأكتاف",
   "Arms": "الذراعان",
-  "Core": "الجذع",
+  "Core": "البطن",
   "Legs": "الساقان",
   "Developed & Built by": "تصميم وتطوير",
   "Return Home": "العودة إلى الرئيسية",
