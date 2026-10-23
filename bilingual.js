@@ -90,8 +90,8 @@ const translations = {
   "Kneeling Landmine Chest Press": "ضغط الصدر بجهاز لاندماين من وضع الركوع",
   "Core Muscles": "عضلات الجذع",
   "The core muscles stabilize the trunk and help transfer strength between the upper and lower body.":
-    "تثبّت عضلات الجذع الجسم وتساعد على نقل القوة بين الجزء العلوي والسفلي.",
-  "Major Core Muscles": "أهم عضلات الجذع",
+    "تثبّت عضلات البطن الجسم وتساعد على نقل القوة بين الجزء العلوي والسفلي.",
+  "Major Core Muscles": "أهم عضلات البطن",
   "Floor Crunches": "تمرين البطن على الأرض",
   "Russian Twists": "اللف الروسي",
   "Leg Muscles": "عضلات الساقين",
